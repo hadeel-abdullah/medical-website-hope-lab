@@ -1,0 +1,61 @@
+ p*{
+
+}
+
+h2,h3{
+	color: white;
+}
+
+.jumbotron{
+	background-image: url("../img/sky.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-position: fixed;
+
+}
+.center{
+	text-align: center;
+}
+ h2{
+	background: #1a53ff;
+	text-align: center;
+
+}
+.edu{
+background: #e6ecff;
+
+}
+.main{
+	background: #e6ecff;
+}
+.side{
+	background: #1a53ff;
+	float: all;
+	margin-left: 70px;
+
+}
+div*{
+	border-radius: 1000px;
+}
+.h1{
+	font-size: 70px;
+	color: white;
+}
+.exp{
+	background: white;
+	color: #1a53ff;
+}
+.con{
+	background: white;
+	color: #1a53ff;
+}
+.container h1{
+	font-size: 70px;
+	color: white;
+	font-family: sans-serif;
+}
+
+.container p{
+	font-family: serif;
+	font-size: 20px;
+}	

@@ -1,0 +1,25 @@
+.jumbotron-fluid{
+	background-image: url("../img/headphone.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-position: fixed;
+}
+.white{
+	background-color: white;
+
+}
+.main{
+	background-color: #FBBF20;
+
+}
+.img{
+	height:100px;
+	width: 100%;
+}
+.link{
+	background-color: white;
+	text-align: right;
+}
+.button{
+	background-color: #FBBF20;
+}

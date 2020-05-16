@@ -1,0 +1,28 @@
+.navbar-dark{
+	text-align: right;
+}
+.jumbotron{
+	background-image: url("../img/sparks.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+	background-attachment: fixed;
+	height: 400px;
+	opacity: 1px;
+	position: relative;
+}
+.navigation{
+	text-align: right;
+}
+h1{
+	color: white;
+}
+p{
+	color: white;
+}
+.button{
+	color: white;
+	background-color: unset;
+}
+.navbar-nav{
+	float:  right;
+}
